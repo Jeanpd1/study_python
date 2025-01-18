@@ -40,44 +40,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.03.executor": "Run",
-    "Python.Calcula_bonificacao_salario.executor": "Run",
-    "Python.Testes da Faculdade (1).executor": "Run",
-    "Python.Testes da Faculdade.executor": "Run",
-    "Python.caixa_eletronico_contagem_cedulas.executor": "Run",
-    "Python.calc_media_pares_for.executor": "Run",
-    "Python.calc_multplos_tabuada_usando_while.executor": "Run",
-    "Python.calcula_media_nota.executor": "Run",
-    "Python.conversor_tempo.executor": "Run",
-    "Python.ex3.executor": "Run",
-    "Python.exe2_loja_acai.executor": "Run",
-    "Python.exe3_.executor": "Run",
-    "Python.exe3_serv_copiadora.executor": "Run",
-    "Python.exe4_.executor": "Run",
-    "Python.exe4_controle_livros (1).executor": "Run",
-    "Python.exercicio_2.3.2_nao_resolvido.executor": "Run",
-    "Python.genero_idade_est._repeticao.executor": "Run",
-    "Python.intervalo_de_tempo_laco.executor": "Run",
-    "Python.nums_primos_2_99_for.executor": "Run",
-    "Python.operacoes_funcao_elif.executor": "Run",
-    "Python.teste_POO.executor": "Run",
-    "Python.testeboi.executor": "Run",
-    "Python.testes_estruturas_repeticao.executor": "Run",
-    "Python.testes_funcao_condicional.executor": "Run",
-    "Python.testes_funcoes (1).executor": "Run",
-    "Python.testes_funcoes.executor": "Run",
-    "Python.testes_numpy.executor": "Run",
-    "Python.testes_tratamento_erros.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "<unknown>",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Arquivos/Desktop/Faculdade/Projetos para estudo/Projetos Python",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Calcula_bonificacao_salario.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Testes da Faculdade (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Testes da Faculdade.executor&quot;: &quot;Run&quot;,
+    &quot;Python.caixa_eletronico_contagem_cedulas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calc_media_pares_for.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calc_multplos_tabuada_usando_while.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calcula_media_nota.executor&quot;: &quot;Run&quot;,
+    &quot;Python.conversor_tempo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe2_loja_acai.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe3_.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe3_serv_copiadora.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe4_.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe4_controle_livros (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio_2.3.2_nao_resolvido.executor&quot;: &quot;Run&quot;,
+    &quot;Python.genero_idade_est._repeticao.executor&quot;: &quot;Run&quot;,
+    &quot;Python.intervalo_de_tempo_laco.executor&quot;: &quot;Run&quot;,
+    &quot;Python.nums_primos_2_99_for.executor&quot;: &quot;Run&quot;,
+    &quot;Python.operacoes_funcao_elif.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste_POO.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testeboi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testes_estruturas_repeticao.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testes_funcao_condicional.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testes_funcoes (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.testes_funcoes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testes_numpy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testes_tratamento_erros.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;&lt;unknown&gt;&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Arquivos/Desktop/Faculdade/Projetos para estudo/Projetos Python&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Arquivos\Desktop\Faculdade\Projetos Python\faculdade" />
